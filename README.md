@@ -9,7 +9,7 @@
 This website shows you which star wars char. you are as you select answers to the questions.
 
 
-
+## Feel free to try with either scripts.js and loops.js
 
 ## Technologies Used
 
